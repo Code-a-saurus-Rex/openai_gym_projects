@@ -2,6 +2,9 @@
 
 - Xming (Windows - optional)   
 - Conda (e.g. miniconda3)  
+
+eval "$(/home/{user}/miniconda3/bin/conda shell.bash hook)"
+
 - WSL2 (Windows - optional)  
 
 ## Setup
