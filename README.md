@@ -34,11 +34,5 @@ Running Xming, can run in ubuntu/WSL if we need an output device
 
 - From your desired terminal export your output device to id 0  for Xming  
 
-- Activate your project conda environment  
-
-```
-conda activate gym
-```
-
 - Write/run your agents using python   
 
