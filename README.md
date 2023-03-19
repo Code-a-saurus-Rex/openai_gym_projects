@@ -18,12 +18,6 @@ Most theory is not my own and will come from excellent sources such as:
 
 ## Setup
 
-In your desired terminal install the conda environment  
-
-```
-conda install .
-```
-
 Activate the conda environment `gym` and test that your environment works (some linux packages may be missing).
 
 ## Startup
